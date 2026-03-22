@@ -1,0 +1,19 @@
+{
+  "name": "pi-boss",
+  "version": "1.0.0",
+  "description": "Spawn and manage sub-agents in visible tmux panes for pi — the orchestrator that makes boss mode work",
+  "keywords": ["pi-package"],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/skyfallsin/pi-boss"
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@mariozechner/pi-ai": "*",
+    "@sinclair/typebox": "*"
+  },
+  "pi": {
+    "extensions": ["./extensions"]
+  }
+}
