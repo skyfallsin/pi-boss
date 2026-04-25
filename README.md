@@ -1,3 +1,6 @@
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/skyfallsin/pi-boss)](https://github.com/skyfallsin/pi-boss/stargazers)
+
 # pi-boss
 
 Spawn and manage sub-agents in visible tmux panes for [pi](https://github.com/badlogic/pi-mono). The orchestrator that makes boss mode work.
