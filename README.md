@@ -83,3 +83,13 @@ pi install git:github.com/skyfallsin/pi-boss
 ## License
 
 MIT
+
+## Pi Ecosystem
+
+| Package | Description |
+|---------|-------------|
+| [pi-mem](https://github.com/jo-inc/pi-mem) | Persistent markdown memory for coding agents |
+| [pi-reflect](https://github.com/jo-inc/pi-reflect) | Self-improving behavioral files |
+| [pi-room](https://github.com/skyfallsin/pi-room) | Multi-agent awareness and coordination |
+| [pi-vertex-anthropic](https://github.com/skyfallsin/pi-vertex-anthropic) | Claude via Google Cloud Vertex AI |
+| [pi-skill-posthog](https://github.com/skyfallsin/pi-skill-posthog) | PostHog analytics skill for pi agents |
